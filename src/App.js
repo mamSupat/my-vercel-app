@@ -4,7 +4,7 @@ function App() {
  return (
  <div className="App">
  <header className="App-header">
- <h1 className='text-5xl'>Supattra HELLO</h1>
+ <h1 className='text-red-600'>Supattra HELLO</h1>
  <p> This is a simple React app deployed on Vercel. </p>
  <a className="App-link" href="https://vercel.com" target="_blank"
  rel="noopener noreferrer" > Learn about Vercel </a>
